@@ -1,2 +1,2 @@
 print("hi students");
-print("пїЅпїЅ students");
+print("ин students");
